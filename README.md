@@ -10,7 +10,7 @@ towards Machine Learning and internships.
 * Build consistency
 * Learn ML fundamentals
 * Prepare for internships
-* Full stack web developer 
+* Full stack web developer
 
 
 
@@ -25,6 +25,24 @@ conditional statements, and looping constructs such as for
 loops and while loops. This helped me understand basic program
 
 flow and logic building in JavaScript.
+
+
+
+
+
+\## Day 4 – Combined JavaScript Basics
+
+
+
+Today I practiced core JavaScript concepts including functions,
+
+asynchronous execution using setTimeout, arrays and their
+
+methods, string operations, and objects with property access.
+
+This helped me understand how multiple JS concepts work
+
+together in a single program.
 
 
 
