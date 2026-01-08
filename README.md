@@ -46,3 +46,19 @@ together in a single program.
 
 
 
+
+
+\## Day 5 – FastAPI Basics
+
+
+
+Today I learned the basics of FastAPI and created simple API
+
+endpoints using Python. I practiced defining routes, returning
+
+JSON responses, and organizing multiple FastAPI files inside
+
+a project folder.
+
+
+
