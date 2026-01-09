@@ -62,3 +62,19 @@ a project folder.
 
 
 
+
+
+\## Day 6 – React.js Basics
+
+
+
+Today I started learning React.js and studied core concepts
+
+such as components, JSX syntax, props, state, and basic project
+
+structure. I also understood how React helps in building
+
+reusable and interactive user interfaces.
+
+
+
